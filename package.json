@@ -1,6 +1,6 @@
 {
   "name": "@mae/customer_connect_cid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customer Connect client id",
   "main": "customer_connect_cid.js",
   "scripts": {
